@@ -1,0 +1,9 @@
+C:\Node\WaterMango\watermangoBackend\WaterMangoBE\WaterMangoBE.Repository\bin\Debug\netstandard2.0\WaterMangoBE.Repository.deps.json
+C:\Node\WaterMango\watermangoBackend\WaterMangoBE\WaterMangoBE.Repository\bin\Debug\netstandard2.0\WaterMangoBE.Repository.dll
+C:\Node\WaterMango\watermangoBackend\WaterMangoBE\WaterMangoBE.Repository\bin\Debug\netstandard2.0\WaterMangoBE.Repository.pdb
+C:\Node\WaterMango\watermangoBackend\WaterMangoBE\WaterMangoBE.Repository\obj\Debug\netstandard2.0\WaterMangoBE.Repository.csprojAssemblyReference.cache
+C:\Node\WaterMango\watermangoBackend\WaterMangoBE\WaterMangoBE.Repository\obj\Debug\netstandard2.0\WaterMangoBE.Repository.csproj.CoreCompileInputs.cache
+C:\Node\WaterMango\watermangoBackend\WaterMangoBE\WaterMangoBE.Repository\obj\Debug\netstandard2.0\WaterMangoBE.Repository.AssemblyInfoInputs.cache
+C:\Node\WaterMango\watermangoBackend\WaterMangoBE\WaterMangoBE.Repository\obj\Debug\netstandard2.0\WaterMangoBE.Repository.AssemblyInfo.cs
+C:\Node\WaterMango\watermangoBackend\WaterMangoBE\WaterMangoBE.Repository\obj\Debug\netstandard2.0\WaterMangoBE.Repository.dll
+C:\Node\WaterMango\watermangoBackend\WaterMangoBE\WaterMangoBE.Repository\obj\Debug\netstandard2.0\WaterMangoBE.Repository.pdb

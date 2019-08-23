@@ -1,0 +1,12 @@
+C:\Node\WaterMango\watermangoBackend\WaterMangoBE\WaterMangoBe.ServiceLayer\bin\Debug\netstandard2.0\WaterMangoBe.ServiceLayer.deps.json
+C:\Node\WaterMango\watermangoBackend\WaterMangoBE\WaterMangoBe.ServiceLayer\bin\Debug\netstandard2.0\WaterMangoBe.ServiceLayer.dll
+C:\Node\WaterMango\watermangoBackend\WaterMangoBE\WaterMangoBe.ServiceLayer\bin\Debug\netstandard2.0\WaterMangoBe.ServiceLayer.pdb
+C:\Node\WaterMango\watermangoBackend\WaterMangoBE\WaterMangoBe.ServiceLayer\obj\Debug\netstandard2.0\WaterMangoBe.ServiceLayer.csprojAssemblyReference.cache
+C:\Node\WaterMango\watermangoBackend\WaterMangoBE\WaterMangoBe.ServiceLayer\obj\Debug\netstandard2.0\WaterMangoBe.ServiceLayer.csproj.CoreCompileInputs.cache
+C:\Node\WaterMango\watermangoBackend\WaterMangoBE\WaterMangoBe.ServiceLayer\obj\Debug\netstandard2.0\WaterMangoBe.ServiceLayer.AssemblyInfoInputs.cache
+C:\Node\WaterMango\watermangoBackend\WaterMangoBE\WaterMangoBe.ServiceLayer\obj\Debug\netstandard2.0\WaterMangoBe.ServiceLayer.AssemblyInfo.cs
+C:\Node\WaterMango\watermangoBackend\WaterMangoBE\WaterMangoBe.ServiceLayer\obj\Debug\netstandard2.0\WaterMangoBe.ServiceLayer.dll
+C:\Node\WaterMango\watermangoBackend\WaterMangoBE\WaterMangoBe.ServiceLayer\obj\Debug\netstandard2.0\WaterMangoBe.ServiceLayer.pdb
+C:\Node\WaterMango\watermangoBackend\WaterMangoBE\WaterMangoBe.ServiceLayer\bin\Debug\netstandard2.0\WaterMangoBE.Repository.dll
+C:\Node\WaterMango\watermangoBackend\WaterMangoBE\WaterMangoBe.ServiceLayer\bin\Debug\netstandard2.0\WaterMangoBE.Repository.pdb
+C:\Node\WaterMango\watermangoBackend\WaterMangoBE\WaterMangoBe.ServiceLayer\obj\Debug\netstandard2.0\WaterMangoBe.ServiceLayer.csproj.CopyComplete
